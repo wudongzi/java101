@@ -19,5 +19,14 @@ public class java6 {
         char doubleQuote = '\"'; //双引号
         char singleQuote = '\''; //单引号
         char backslash = '\\'; //反斜杠
+
+        byte b = 105;
+        short s = 300;
+        int i = 400;
+        long l = 500;
+        float f = 20;
+        double d = 1.2;
+        char c = '吴';
+        String str = "吴东子"
     }
 }
