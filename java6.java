@@ -27,6 +27,6 @@ public class java6 {
         float f = 20;
         double d = 1.2;
         char c = '吴';
-        String str = "吴东子"
+        String str = "吴东子";
     }
 }
