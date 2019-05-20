@@ -9,7 +9,7 @@ public class java14 {
 
         int a = 2;
         System.out.println( a== 1 | a++ ==2  );
-        System.out.println(a)
+        System.out.println(a);
         int b = 2;
         System.out.println( b== 2 || b++ ==2  );
         System.out.println(b);
@@ -18,7 +18,7 @@ public class java14 {
         System.out.println(c);
         System.out.println(!c);
 
-        boolean d = false
+        boolean d = false;
         System.out.println(c^d);
         System.out.println(c^!d);
 
