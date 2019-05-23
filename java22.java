@@ -15,7 +15,15 @@ public class java22 {
         for(int a = 1;a < 11;a++){
             System.out.println(b);
             b = b*c;
+        }
 
+        int money = 1;
+        int day = 10;
+        int sum = 0;
+        for(int q = 1; q<=day;q++){
+            sum += money;
+            System.out.println(sum);
+            money *= 2;
         }
     }
 }
