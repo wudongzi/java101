@@ -1,0 +1,5 @@
+package charactor;
+
+public enum java48 {
+    SPRING,SUMMER,AUTUMN,WINTERTANK, WIZARD, ASSASSIN, ASSIST, WARRIOR, RANGED, PUSH, FARMING
+}
