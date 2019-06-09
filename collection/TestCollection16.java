@@ -16,7 +16,6 @@ public class TestCollection16 {
         System.out.println("----------Set----------");
         HashSet<Integer> numberSet =new HashSet<Integer>();
         System.out.println("向Set 中插入9 9");
-        //Set中的数据不能重复
         numberSet.add(9);
         numberSet.add(9);
         System.out.println("Set 中只会保留一个9:");
