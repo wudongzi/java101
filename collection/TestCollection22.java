@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import charactor.Hero1;
 
-public class TestCollection {
+public class TestCollection22 {
     public static void main(String[] args) {
         ArrayList heros = new ArrayList();
 
