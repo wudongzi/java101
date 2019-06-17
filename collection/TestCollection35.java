@@ -18,4 +18,4 @@ public class TestCollection35 {
         hashtable.put("123", null);
 
     }
-}
+} 
